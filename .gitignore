@@ -1,3 +1,5 @@
 firmware/build
 firmware/eztft/build
 software/.venv
+software/shot.png
+software/shot.bin
